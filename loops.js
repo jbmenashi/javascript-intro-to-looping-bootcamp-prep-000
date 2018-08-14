@@ -24,8 +24,8 @@ function doWhileLoop(array) {
     i = i + 1;
   }
   do {
-    
-  }
+    array.pop();
+  } while ()
   return array;
 }
 
